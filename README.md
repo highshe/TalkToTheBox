@@ -1,6 +1,11 @@
-# TalkToTheBox
-talk to gp3 models to generate texts ideas and create images using text completions api and images generations
-
+# TalkToTheBox 
+#gpt3 cli way #gptcli #gpt-cli 
+instead of using the chatgpt web interface, your can 
+talk to gpt3 models to generate texts ideas 
+or create images 
+using text completions apis
+or images generations apis
+in your shell|shell|cli|pipes env seamlessly
 
 #usage:
 
